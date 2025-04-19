@@ -1,6 +1,6 @@
 secrets:
   mongodb_uri:
-    file: ./mongodb_uri.txt
+    file: ./mongodb_uri.txt #Added secrets to hide backen
 
 services:
   web:
